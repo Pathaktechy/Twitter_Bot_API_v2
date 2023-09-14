@@ -80,9 +80,7 @@ Joined Twitter: April 2015
 
 If you'd like to contribute to this project, feel free to fork the repository and submit pull requests. You can also open issues to report bugs or suggest improvements.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
